@@ -1,0 +1,39 @@
+{
+  "id": "d495fa48-f5d3-48ce-b169-26cab98e1d56",
+  "parentId": "45f15b6b-9d63-4b93-95c7-1fafe4ad54ca",
+  "rootParentId": "45f15b6b-9d63-4b93-95c7-1fafe4ad54ca",
+  "name": "Timings please - yes",
+  "auto": true,
+  "contexts": [
+    "Timingsplease-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Timingsplease.Timingsplease-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "What else do you need information, address or you want yo know which brands we offer?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

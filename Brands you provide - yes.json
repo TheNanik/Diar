@@ -1,0 +1,39 @@
+{
+  "id": "df34fb60-cf6c-4e41-b5a1-68b693a83ed1",
+  "parentId": "7a7e7943-d06f-485b-9e71-04429d49ec2b",
+  "rootParentId": "7a7e7943-d06f-485b-9e71-04429d49ec2b",
+  "name": "Brands you provide - yes",
+  "auto": true,
+  "contexts": [
+    "Brandsyouprovide-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Brandsyouprovide.Brandsyouprovide-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Sure! I can provide you address, contact and information about Diar Styling. What do you want to know?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

@@ -1,0 +1,40 @@
+{
+  "id": "03f65cc7-2192-4bbd-a41b-d977aaacb4a3",
+  "parentId": "fad1cda6-916f-4943-b510-3a98d910e1b2",
+  "rootParentId": "fad1cda6-916f-4943-b510-3a98d910e1b2",
+  "name": "How can I contact you? - no",
+  "auto": true,
+  "contexts": [
+    "HowcanIcontactyou-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "HowcanIcontactyou.HowcanIcontactyou-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "OK Bye! Have a nice day."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

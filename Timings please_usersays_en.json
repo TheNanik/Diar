@@ -1,0 +1,114 @@
+[
+  {
+    "id": "2c794858-601c-420b-8384-ffd0fe2c373b",
+    "data": [
+      {
+        "text": "When are you open?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ad85abb7-688b-4258-817d-b08f5dadda5a",
+    "data": [
+      {
+        "text": "When do you open?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "cacde054-a2bb-4a69-8525-0c48a4f480b6",
+    "data": [
+      {
+        "text": "Sunday",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "52d9bf4d-c4d5-45c0-b07a-d7f8edc8320f",
+    "data": [
+      {
+        "text": "Sundays",
+        "meta": "@sys.date",
+        "alias": "date",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "7ddc048f-5de7-4dab-bd30-55f102be8a7a",
+    "data": [
+      {
+        "text": "Are you open ",
+        "userDefined": false
+      },
+      {
+        "text": "on Sundays",
+        "meta": "@sys.ignore",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "28d74439-845b-4c69-b488-44b8ec9758df",
+    "data": [
+      {
+        "text": "Timings please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "0ccec2d0-2163-42cc-a0b5-74b6fff77da3",
+    "data": [
+      {
+        "text": "Timings",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "e9085f65-8b27-4263-a5d1-22ad35b9fdfc",
+    "data": [
+      {
+        "text": "What are the timings?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

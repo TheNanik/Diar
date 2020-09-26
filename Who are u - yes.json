@@ -1,0 +1,39 @@
+{
+  "id": "363a46ce-638a-484b-8f5b-e9ca5f0111cf",
+  "parentId": "c818a5eb-25cd-41e6-8240-75b1cb34470c",
+  "rootParentId": "c818a5eb-25cd-41e6-8240-75b1cb34470c",
+  "name": "Who are u - yes",
+  "auto": true,
+  "contexts": [
+    "Whoareu-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Whoareu.Whoareu-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "How can I help, I can provide you information, contact, timings and address of Diar Styling"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

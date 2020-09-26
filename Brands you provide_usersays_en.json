@@ -1,0 +1,67 @@
+[
+  {
+    "id": "c2459ae9-60ad-4469-8786-e1997f9047cb",
+    "data": [
+      {
+        "text": "Brands you provide",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c69f296b-c753-42d4-b843-3e93773bbefb",
+    "data": [
+      {
+        "text": "how many brands",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "60fa47c1-a24c-43cc-9c1b-b1f97d845eb0",
+    "data": [
+      {
+        "text": "which brands",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "9ac719a7-38f3-4396-ba32-87c017dd3579",
+    "data": [
+      {
+        "text": "brands",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "d774bbcf-4a92-4fb2-b0cf-07e349bf9ed8",
+    "data": [
+      {
+        "text": "Which brands do you use",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

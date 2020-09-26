@@ -1,0 +1,39 @@
+{
+  "id": "b6f67c7e-25bd-4b21-bfe8-1c6d0ad6615c",
+  "parentId": "fad1cda6-916f-4943-b510-3a98d910e1b2",
+  "rootParentId": "fad1cda6-916f-4943-b510-3a98d910e1b2",
+  "name": "How can I contact you? - yes",
+  "auto": true,
+  "contexts": [
+    "HowcanIcontactyou-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "HowcanIcontactyou.HowcanIcontactyou-yes",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "What else do you need. Information, address or you want yo know which brands we offer?"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}

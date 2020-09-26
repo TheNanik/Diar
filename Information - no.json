@@ -1,0 +1,40 @@
+{
+  "id": "2734ad0b-732c-4be4-bfac-e209a11777e4",
+  "parentId": "4dbbeb76-a0d4-4a1e-827d-0fe9f24807a5",
+  "rootParentId": "4dbbeb76-a0d4-4a1e-827d-0fe9f24807a5",
+  "name": "Information - no",
+  "auto": true,
+  "contexts": [
+    "Information-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Information.Information-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "OK Bye! Have a nice day."
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

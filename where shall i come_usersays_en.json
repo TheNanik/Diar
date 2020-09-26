@@ -1,0 +1,119 @@
+[
+  {
+    "id": "d187e8ab-4152-4330-94ce-cd8937955a00",
+    "data": [
+      {
+        "text": "where shall i come",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "8a3251aa-9edd-4fb7-84e1-9dea6737470a",
+    "data": [
+      {
+        "text": "where is parlour",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "3fbc69be-6049-4ac4-9dd2-931b91edbf71",
+    "data": [
+      {
+        "text": "where is salon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "5317cd25-0953-43bf-aeac-9e9837eaf8d0",
+    "data": [
+      {
+        "text": "where is the saloon",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "ecfb37c4-f2bb-4c9f-8eea-f73de2c8c964",
+    "data": [
+      {
+        "text": "where is Diar Styling",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "a10de6c2-47eb-4e75-872b-a156aaf44365",
+    "data": [
+      {
+        "text": "whats your location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "66cd60e0-6ec6-4c08-9b59-a59dd8bb8830",
+    "data": [
+      {
+        "text": "where are you located",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "4946e322-b38d-4f88-acb6-80cb70abd46f",
+    "data": [
+      {
+        "text": "Location",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "05b68673-b2ba-4d46-94e6-519f932a3116",
+    "data": [
+      {
+        "text": "Address",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

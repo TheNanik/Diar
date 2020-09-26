@@ -1,0 +1,106 @@
+[
+  {
+    "id": "a12e0115-9f94-4977-8bdd-1aa30a065ea3",
+    "data": [
+      {
+        "text": "Services",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f0a232cc-44a5-49e7-858e-2f02e033e949",
+    "data": [
+      {
+        "text": "service",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "895f1e14-97a7-472a-9379-9427735acc0a",
+    "data": [
+      {
+        "text": "Please give me information",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "29d7855d-472e-46f0-8c24-9df042180253",
+    "data": [
+      {
+        "text": "Provide me information",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "c5fc5f89-2d83-4c84-ba3d-3ac7788a9004",
+    "data": [
+      {
+        "text": "What do you offer?",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "946dded5-9713-4699-81e0-13d35b752174",
+    "data": [
+      {
+        "text": "Which services are available",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 2,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "f72132d8-ae20-4d09-9e0e-b1eccfea1081",
+    "data": [
+      {
+        "text": "Information please",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  },
+  {
+    "id": "1562405d-e821-45a0-ad27-d43a05b4a8f8",
+    "data": [
+      {
+        "text": "Information",
+        "userDefined": false
+      }
+    ],
+    "isTemplate": false,
+    "count": 0,
+    "lang": "en",
+    "updated": 0
+  }
+]

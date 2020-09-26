@@ -1,0 +1,40 @@
+{
+  "id": "22ea0336-be4a-4882-b8f6-e459ab1ce291",
+  "parentId": "c818a5eb-25cd-41e6-8240-75b1cb34470c",
+  "rootParentId": "c818a5eb-25cd-41e6-8240-75b1cb34470c",
+  "name": "Who are u - no",
+  "auto": true,
+  "contexts": [
+    "Whoareu-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Whoareu.Whoareu-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "OK! Bye"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": [],
+  "endInteraction": true
+}

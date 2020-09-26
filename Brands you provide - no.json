@@ -1,0 +1,39 @@
+{
+  "id": "38b1b97d-b382-4940-ad87-a39c0c35e313",
+  "parentId": "7a7e7943-d06f-485b-9e71-04429d49ec2b",
+  "rootParentId": "7a7e7943-d06f-485b-9e71-04429d49ec2b",
+  "name": "Brands you provide - no",
+  "auto": true,
+  "contexts": [
+    "Brandsyouprovide-followup"
+  ],
+  "responses": [
+    {
+      "resetContexts": false,
+      "action": "Brandsyouprovide.Brandsyouprovide-no",
+      "affectedContexts": [],
+      "parameters": [],
+      "messages": [
+        {
+          "type": "0",
+          "title": "",
+          "textToSpeech": "",
+          "lang": "en",
+          "speech": [
+            "Waiting for your visit at Diar. Bye!"
+          ],
+          "condition": ""
+        }
+      ],
+      "speech": []
+    }
+  ],
+  "priority": 500000,
+  "webhookUsed": false,
+  "webhookForSlotFilling": false,
+  "fallbackIntent": false,
+  "events": [],
+  "conditionalResponses": [],
+  "condition": "",
+  "conditionalFollowupEvents": []
+}
